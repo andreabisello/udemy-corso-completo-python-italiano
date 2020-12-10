@@ -1,0 +1,5 @@
+pytest
+pytest-html
+pytest-excel
+flaky
+pytest-testconfig
